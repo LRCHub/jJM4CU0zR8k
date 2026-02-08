@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "【音楽的同位体星界】異星にいこうね / ヰ世界情緒 feat. 星界",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2026-02-08T07:48:19.039038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "異星にいこうね",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/01_異星にいこうね_いよわ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "異星にいこうね",
+      "artist": "いよわ",
+      "has_synced": true,
+      "path": "select/02_異星にいこうね_いよわ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "異星にいこうね (feat. 星界)",
+      "artist": "いよわ",
+      "has_synced": true,
+      "path": "select/03_異星にいこうね_(feat._星界)_いよわ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "異星にいこうね  いよわ feat.星界",
+      "artist": "ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_異星にいこうね_いよわ_feat.星界_ヰ世界情緒.txt"
+    }
+  ]
+}
